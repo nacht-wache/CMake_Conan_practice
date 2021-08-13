@@ -76,3 +76,4 @@ fabric.properties
 
 # CLion build-debug
 cmake-build-debug
+.idea
